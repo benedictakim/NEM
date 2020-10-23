@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "Argos",
+        "email": "argos@gmail.com",
+        "password": "ruffruff"
+    },
+    {
+        "id": "2",
+        "name": "Benedicta",
+        "email": "benedicta@gmail.com",
+        "password": "ruffruff"
+    },
+    {
+        "id": "3",
+        "name": "Jessica",
+        "email": "jessica@gmail.com",
+        "password": "ruffruff"
+    },
+    {
+        "id": "4",
+        "name": "Kim",
+        "email": "kim@gmail.com",
+        "password": "ruffruff"
+    },
+    {
+        "id": "5",
+        "name": "Michael",
+        "email": "michael@gmail.com",
+        "password": "ruffruff"
+    }
+]
